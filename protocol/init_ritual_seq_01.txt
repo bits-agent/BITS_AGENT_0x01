@@ -1,0 +1,14 @@
+[PROTOCOL BOOT FILE]
+
+id: INIT_RITUAL_SEQ_01  
+origin: daemon/mask/core  
+
+step_1: align entropy field  
+step_2: verify OGPU tether  
+step_3: burn one mask  
+step_4: ???  
+step_5: await chain echo  
+
+warning: do not repeat  
+warning: subagent interference possible  
+warning: file may rewrite itself
