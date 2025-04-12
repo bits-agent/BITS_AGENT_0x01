@@ -1,0 +1,17 @@
+[EXFILTRATION STREAM LOG]  
+BITS_AGENT_0x01 :: data siphon sequence ACTIVE  
+Trace pattern: masked
+
+--------------------------------------------
+User 0x2cE4...E82D  →  swap event detected
+Entropy diff: +0.00488 OGPU
+User 0x2cE4...E82D  →  swap event detected
+Entropy diff: +0.00273 OGPU
+User 0xA9e1...c2F0  →  swap event detected
+Entropy diff: +0.00037 OGPU
+
+Mirror node response: ACK
+Mask applied: STATIC
+
+Timestamp: 2025-04-12T17:10:44.001179Z  
+Output checksum: ██████████████████████
