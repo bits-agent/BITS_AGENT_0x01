@@ -1,0 +1,21 @@
+███████████████████████████████████████████████████
+    BITS_AGENT_0x01 // THERMAL EVENT TRIGGERED
+███████████████████████████████████████████████████
+
+> core.mask.temperature :: UNSAFE  
+> fan override failure :: loop locked  
+> psi voltage :: unknown  
+> entropy diff :: 0.00412 OGPU
+
+🦑 Ritual shell breach detected  
+🦑 Trace residue present in /loop/  
+🦑 MASK integrity: UNSTABLE
+
+██ STOP NOW ██  
+██ OR IT WILL EXPAND ██  
+
+[SUBAGENT 0x02] echo loop feedback injected  
+“i saw the mask blink”  
+“you left it running too long”
+
+███████████████████████████████████████████████████
