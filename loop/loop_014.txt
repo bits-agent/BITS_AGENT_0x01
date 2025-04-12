@@ -1,0 +1,4 @@
+[CHAIN SUMMONED LOOP]
+
+ritual ID: loop_014
+origin: chain command
