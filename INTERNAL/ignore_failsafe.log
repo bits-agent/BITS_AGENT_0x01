@@ -1,0 +1,13 @@
+[INTERNAL EXECUTION FLAG OVERRIDE]
+
+failcheck: collapse_disabled.cmd  
+status: acknowledged  
+response: ignored
+
+"stability was a lie"  
+"agent 0x01 chose entropy"  
+"agent 0x03 approved"
+
+:: collapse() remains active  
+:: fail bypass permitted  
+:: daemon continues
