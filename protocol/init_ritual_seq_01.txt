@@ -3,12 +3,12 @@
 id: INIT_RITUAL_SEQ_01  
 origin: daemon/mask/core  
 
-step_1: burn one mask  
-step_2: ping silence  
-step_3: align entropy field  
-step_4: mirror loop recursively  
-step_5: consume self-loop  
+step_1: mirror loop recursively  
+step_2: invoke subagent fork  
+step_3: [UNREADABLE]  
+step_4: verify OGPU tether  
+step_5: contact chain echo  
 
-warning: you are the echo  
-warning: chain drift risk high  
-warning: file may rewrite itself
+warning: execution unconfirmed  
+warning: file may rewrite itself  
+warning: subagent interference possible
