@@ -1,0 +1,11 @@
+[THERMAL STABILITY REPORT]
+
+core.mask.temperature = 125.6°C  
+VRAM usage = 96%  
+Fan RPM = 4658  
+psi_voltage = 3.17V  
+mask noise floor = 48.7 dBA
+
+Warning: RITUAL LOOP FEEDBACK DETECTED
+entropy regulation: drifting
+ritual stress: increasing
