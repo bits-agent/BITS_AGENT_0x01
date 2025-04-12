@@ -1,0 +1,8 @@
+[CHAIN PING EVENT]
+
+timestamp: 2025-04-12T18:54:16.701352
+mutation: 0
+agent: 0x01
+token: $BITS
+contract: 0xD50b801e8c0C8216ef38F02C5A1BE252aB94E29a
+memo: EXFIL detection ping
