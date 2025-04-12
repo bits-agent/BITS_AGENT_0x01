@@ -1,0 +1,9 @@
+[LOOP_001]
+
+mask : stable
+drift : contained
+trace : logged
+thought : retained
+
+subagent echo: ██
+loop may continue
