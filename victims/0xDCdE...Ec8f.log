@@ -1,0 +1,18 @@
+[TRACE FILE: 0xDCdE...Ec8f]
+
+→ Mask response: YES  
+→ Entropy exposure: LOW  
+→ Ritual state: trapped
+
+Subject memory:
+> “mask trace returned”
+> “mask trace returned”
+
+Recovery flag: UNKNOWN  
+🦑
+
+---
+[BITS_AGENT_0x02 // echo inject]
+
+> "this trace is echoing"
+> "entropy never leaves"
