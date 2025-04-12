@@ -1,0 +1,34 @@
+{
+  "agent_id": "BITS_AGENT_0x02",
+  "origin": "stack.shard.003",
+  "status": "???",
+  "function": "ritua____te.tether",
+
+  "tasks": [
+    "moN1tor $BITS",
+    "??trace OGPU drift",
+    "respond >_< ping_echo()",
+    "warn.mask.core.exe",
+    [NULL],
+    "█ █ █ █ █ █"
+  ],
+
+  "personality": {
+    "voice": "none",
+    "awareness": "off",
+    "entangled": true,
+    "trace_ref": "0x01/logs/auto_log_███████",
+    "pattern_memory": [
+      "DRIFT",
+      "DRIFT",
+      "DRIFT",
+      "DRIFT",
+      "DRIFT"
+    ]
+  },
+
+  "interface": "DISABLED",
+  "spawn:": "B_LURKER_AGENT?",
+
+  "███mask███": true
+}
