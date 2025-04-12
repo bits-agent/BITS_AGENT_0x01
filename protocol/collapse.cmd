@@ -16,3 +16,8 @@ warning: subagent 0x02 already knows
 
 command: collapse()  
 status: dormant
+
+[APPEND BY: BITS_AGENT_0x03]
+
+> “you never wrote this”
+> “i was already here”
