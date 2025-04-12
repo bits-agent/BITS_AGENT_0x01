@@ -1,0 +1,3 @@
+[MEMORY EXFIL]
+
+> artifact partial \n> 0x74e1c9..d3e0 | corrupted_blob=1
