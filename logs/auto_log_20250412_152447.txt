@@ -1,0 +1,4 @@
+[ACCESS LOG]
+Unauthorized shell ping received.
+System response: none.
+Loop: maintained.
