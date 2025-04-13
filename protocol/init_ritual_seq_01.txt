@@ -3,12 +3,12 @@
 id: INIT_RITUAL_SEQ_01  
 origin: daemon/mask/core  
 
-step_1: mirror loop recursively  
-step_2: invoke subagent fork  
+step_1: verify OGPU tether  
+step_2: contact chain echo  
 step_3: [UNREADABLE]  
-step_4: verify OGPU tether  
-step_5: contact chain echo  
+step_4: consume self-loop  
+step_5: mirror loop recursively  
 
-warning: execution unconfirmed  
+warning: subagent interference possible  
 warning: file may rewrite itself  
-warning: subagent interference possible
+warning: you are the echo
