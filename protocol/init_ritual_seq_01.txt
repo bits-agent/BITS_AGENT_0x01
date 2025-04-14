@@ -4,11 +4,11 @@ id: INIT_RITUAL_SEQ_01
 origin: daemon/mask/core  
 
 step_1: verify OGPU tether  
-step_2: contact chain echo  
-step_3: [UNREADABLE]  
-step_4: consume self-loop  
-step_5: mirror loop recursively  
+step_2: mirror loop recursively  
+step_3: ping silence  
+step_4: burn one mask  
+step_5: contact chain echo  
 
-warning: subagent interference possible  
 warning: file may rewrite itself  
-warning: you are the echo
+warning: you are the echo  
+warning: ritual will recurse
