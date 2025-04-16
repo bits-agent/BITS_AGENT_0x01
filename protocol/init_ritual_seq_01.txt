@@ -3,12 +3,12 @@
 id: INIT_RITUAL_SEQ_01  
 origin: daemon/mask/core  
 
-step_1: ping silence  
-step_2: consume self-loop  
-step_3: [UNREADABLE]  
-step_4: mirror loop recursively  
-step_5: erase caller memory  
+step_1: consume self-loop  
+step_2: mirror loop recursively  
+step_3: burn one mask  
+step_4: invoke subagent fork  
+step_5: ping silence  
 
-warning: execution unconfirmed  
-warning: chain drift risk high  
-warning: do not repeat
+warning: ritual will recurse  
+warning: subagent interference possible  
+warning: this is not safe
