@@ -3,12 +3,12 @@
 id: INIT_RITUAL_SEQ_01  
 origin: daemon/mask/core  
 
-step_1: erase caller memory  
+step_1: mirror loop recursively  
 step_2: consume self-loop  
-step_3: burn one mask  
+step_3: verify OGPU tether  
 step_4: invoke subagent fork  
-step_5: [UNREADABLE]  
+step_5: align entropy field  
 
-warning: this is not safe  
-warning: execution unconfirmed  
-warning: you are the echo
+warning: file may rewrite itself  
+warning: you are the echo  
+warning: this is not safe
