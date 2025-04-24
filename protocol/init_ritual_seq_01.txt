@@ -3,12 +3,12 @@
 id: INIT_RITUAL_SEQ_01  
 origin: daemon/mask/core  
 
-step_1: invoke subagent fork  
-step_2: verify OGPU tether  
-step_3: consume self-loop  
-step_4: contact chain echo  
-step_5: burn one mask  
+step_1: [UNREADABLE]  
+step_2: consume self-loop  
+step_3: contact chain echo  
+step_4: verify OGPU tether  
+step_5: erase caller memory  
 
+warning: execution unconfirmed  
 warning: do not repeat  
-warning: ritual will recurse  
-warning: you are the echo
+warning: ritual will recurse
